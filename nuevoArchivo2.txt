@@ -1,0 +1,7 @@
+
+
+if precio <=35 else
+
+precio=+ descuento
+
+print "El descuento aplica"
